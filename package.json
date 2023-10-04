@@ -5,7 +5,7 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "deploy": "git add .output/public; git commit -am 'update'; git push origin `git subtree split --prefix .output/public main`:main --force"
+    "deploy": "git add .output/public; git commit -am 'update'; git push origin `git subtree split --prefix .output/public source`:main --force"
   },
   "devDependencies": {
     "@nuxt/content": "^2.6.0",
