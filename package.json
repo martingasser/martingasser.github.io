@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "deploy": "git add .output/public; git commit -am 'update'; git push origin `git subtree split --prefix .output/public main`:main --force"
+  },
+  "devDependencies": {
+    "@nuxt/content": "^2.6.0",
+    "@nuxt/image-edge": "^1.0.0-28020728.5df24eb",
+    "@nuxtjs/tailwindcss": "^6.6.6",
+    "@tailwindcss/typography": "^0.5.9",
+    "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "nuxt-content-assets": "^1.3.2",
+    "vue-easy-lightbox": "^1.16.0"
+  }
+}
