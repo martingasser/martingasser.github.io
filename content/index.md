@@ -13,9 +13,8 @@ description: Home page
 
 ## Latest
 
-- [Spin Wave Voices](https://ars.electronica.art/planetb/en/spin-wave-voices/), [video preview](https://www.youtube.com/watch?v=QGWoRnfgXfI&t=2s), [Ars Electronica 2022](https://ars.electronica.art/news/en/) (Linz, Austria)
 - [Ingeborg Bachmann-Kuppel](https://www.bachmann-kuppel.at/karlsplatz-2023/), 21.4.2023 - 18.5.2023, Vienna, Austria
+- Brick by Brick, [The Other Island](https://www.dark-city.at/), 28.9.2023 - 30.9.2023, Vienna, Austria
 
 ## Upcoming
-- Brick by Brick, [The Other Island](https://www.dark-city.at/), Vienna, Austria
 - Schiele's Ghost, Vienna, Austria
