@@ -18,7 +18,7 @@ Music-theatre-performance project, various incarnations from duo with laptop,
 vocals, and guitar to a full-blown live band.
 
 <div class="video-container">
-<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/AlYNAktkxsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/AlYNAktkxsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 collaborators:

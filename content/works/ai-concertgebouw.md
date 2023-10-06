@@ -9,6 +9,7 @@ year: 2015
 pdfUrls:
 - https://www.ijcai.org/Proceedings/15/Papers/343.pdf
 ---
+
 In this paper we present a real-world application (the first of its kind) of
 machine listening in the context of a live concert in a world-famous concert
 hall – the Concertgebouw in Amsterdam. A real-time music tracking algorithm

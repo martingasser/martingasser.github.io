@@ -1,1 +1,0 @@
-import{a as t,o as s,b as c}from"./entry.2c11e84e.js";const o={name:"SmallImage",props:{work:{type:Object,required:!0}},computed:{dynamicImage(){return require(`~/content${this.work.dir}/${this.work.imgUrl}?{sizes: [50, 100, 200]}`).srcSet}}},a=["srcset"];function n(e,m,i,l,p,r){return s(),c("img",{srcset:r.dynamicImage},null,8,a)}const u=t(o,[["render",n]]);export{u as default};

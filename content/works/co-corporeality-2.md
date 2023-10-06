@@ -14,9 +14,9 @@ For the [Co-Corporeality](https://cocorporeality.net/) artistic research project
 
 Watch our presentation video which has been shown at [Angewandte Festival 2021](https://angewandtefestival.at/):
 
-<!-- <iframe title="vimeo-player" src="https://player.vimeo.com/video/570870192" width="100%" frameborder="0" allowfullscreen></iframe> -->
-
-<div style="padding:52.73% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/570870192" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div class="video-container">
+    <iframe src="https://player.vimeo.com/video/570870192" class="video" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Collaborators:
 - [Barbara Imhof](https://spacearchitect.org/barbara-imhof/)

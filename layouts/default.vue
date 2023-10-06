@@ -109,6 +109,8 @@ header .nuxt-link-exact-active {
   position: relative;
   width: 100%;
   padding-bottom: 56.25%;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .video {

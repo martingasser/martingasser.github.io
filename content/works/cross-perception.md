@@ -18,8 +18,9 @@ The human perceptual apparatus looks for simple explanations for sensory impress
 The visual Part is formed by photogrammetry using a smartphone. 3D objects, their mesh structure and textures are faulty and are the basis for the visual structure in Unity. An artificial neural network for object recognition processes the 3d objects and calculates probabilities for the presence of a given set of object classes for each point in time and each image section. If an object is detected over a certain period of time, a sound is played from the direction of the corresponding image section, which is related to the detected object. For the auditory composition, granular synthesis and spectral freezes were used to create a space. The object recognition was translated into Midi Note On/Off commands and imported into Ableton Live to trigger samplers with corresponding sounds. The positions of the sound sources were calculated directly from the camera coordinates and the viewing direction.
 
 
-<iframe width="100%" height="600" src="https://www.youtube.com/embed/qkgteg1v610" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div class="video-container">
+    <iframe class="video" src="https://www.youtube.com/embed/qkgteg1v610" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 The project is part of TRANSFORM, a collaborative project between Angewandte, Johannes Kepler University, and Donau University Krems, funded by the Austrian Federal Ministry of Education, Science and Research. With the involvement of Kathrin Hunze, Thomas Hack; Silvan David Peter, Jan Schlüter (Institute for Computational Perception, JKU Linz) and Christine Böhler, Martin Gasser (Department Cross-Disciplinary Strategies, Angewandte Vienna).
 
