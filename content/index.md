@@ -17,4 +17,4 @@ description: Home page
 - [Don't touch me](/works/dont-touch-me/), [The Other Island 2](http://theotherisland.com/), 30.11.2023 - 2.12.2023, Vienna, Austria
 
 ## Upcoming
-TBA
+- Deep Empty - Wide Open, with Valerie Messini
