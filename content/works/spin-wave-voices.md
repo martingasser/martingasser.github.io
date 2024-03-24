@@ -21,7 +21,7 @@ We are in a search of alternative ways of living, more efficient, less energy co
 
 <p>
 <div class="video-container">
-<iframe class="video" src="https://www.youtube.com/embed/FnNImplHFG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/DVGgFnQUK1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </p>
 
