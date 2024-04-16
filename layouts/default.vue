@@ -45,7 +45,7 @@
         class="mx-auto max-w-xl overflow-hidden flex justify-center"
       >
         <p class="inline-block py-2 px-3 text-gray-700 text-xs">
-          ©2023 Martin Gasser. All rights reserved.
+          ©2024 Martin Gasser. All rights reserved.
         </p>
       </div>
     </footer>
