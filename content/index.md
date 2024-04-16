@@ -13,8 +13,7 @@ description: Home page
 
 ## Latest
 
-- [Brick by Brick](https://martingasser.com/works/brick-by-brick/), [The Other Island](http://theotherisland.com/), 28.9.2023 - 30.9.2023, Vienna, Austria
-- [Don't touch me](/works/dont-touch-me/), [The Other Island 2](http://theotherisland.com/), 30.11.2023 - 2.12.2023, Vienna, Austria
+- [Deep Empty - Wide Open](/works/deep-empty-wide-open), 22.3.2024 - 22.6.2024, Lisbon, Portugal
 
 ## Upcoming
-- Deep Empty - Wide Open, with Valerie Messini
+- TBA
