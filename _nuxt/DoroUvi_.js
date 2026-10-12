@@ -1,0 +1,1 @@
+import{I as e,b as t,f as n}from"./BrwVoofB.js";import{t as r}from"./B5pd09hH.js";var i=Object.assign(t({__name:`ProseImg`,props:{src:{},alt:{},width:{},height:{}},setup(t){return(i,a)=>{let o=r;return e(),n(o,{src:t.src,alt:t.alt,width:t.width,height:t.height},null,8,[`src`,`alt`,`width`,`height`])}}}),{__name:`ProseImg`});export{i as default};
